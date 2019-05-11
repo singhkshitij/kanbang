@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanbang/static/css/main.c440f118.chunk.css",
+    "main.js": "/kanbang/static/js/main.269a8123.chunk.js",
+    "main.js.map": "/kanbang/static/js/main.269a8123.chunk.js.map",
+    "runtime~main.js": "/kanbang/static/js/runtime~main.e3d6d278.js",
+    "runtime~main.js.map": "/kanbang/static/js/runtime~main.e3d6d278.js.map",
+    "static/js/2.19b733ec.chunk.js": "/kanbang/static/js/2.19b733ec.chunk.js",
+    "static/js/2.19b733ec.chunk.js.map": "/kanbang/static/js/2.19b733ec.chunk.js.map",
+    "index.html": "/kanbang/index.html",
+    "precache-manifest.51696229ddc35094609cf4d0c4084aa6.js": "/kanbang/precache-manifest.51696229ddc35094609cf4d0c4084aa6.js",
+    "service-worker.js": "/kanbang/service-worker.js",
+    "static/css/main.c440f118.chunk.css.map": "/kanbang/static/css/main.c440f118.chunk.css.map"
+  }
+}
