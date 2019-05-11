@@ -1,0 +1,41 @@
+.login-page {
+  position: relative;
+  min-height: 100vh;
+  background: url('/images/login-background.jpg') center center no-repeat;
+  background-size: cover;
+  z-index: 10;
+}
+
+.login-logo {
+  height: 10vh;
+  width: 40vh;
+}
+
+.login-page:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.login-form {
+  position: absolute;
+  top: 20%;
+  right: 0;
+  margin-right: 5vw;
+  color: #fff;
+  z-index: 20;
+  padding: 10px 20px 10px 20px;
+}
+
+.form-block {
+  background: #fff;
+  border-radius: 10px;
+  color: #000;
+  z-index: 20;
+  padding: 10px 20px 10px 20px;
+}

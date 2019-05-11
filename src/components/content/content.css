@@ -1,0 +1,61 @@
+.content {
+  background: #ffffff00;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  width: 96vw;
+  height: 90vh;
+}
+
+.todo {
+  box-shadow: 0 0 32px 0 rgba(12, 12, 13, 0.1),
+    0 2px 16px 0 rgba(12, 12, 13, 0.05);
+  display: flex;
+  background: #fff;
+  float: left;
+  width: 25vw;
+  height: 80vh;
+  margin: 2vh 7vh 2vh 7vh;
+  border-top: 4px solid #2980b9;
+}
+
+.in-progress {
+  box-shadow: 0 0 32px 0 rgba(12, 12, 13, 0.1),
+    0 2px 16px 0 rgba(12, 12, 13, 0.05);
+  display: flex;
+  background: #fff;
+  float: left;
+  width: 25vw;
+  height: 80vh;
+  margin: 2vh 7vh 2vh 7vh;
+  border-top: 4px solid #2980b9;
+}
+
+.done {
+  box-shadow: 0 0 32px 0 rgba(12, 12, 13, 0.1),
+    0 2px 16px 0 rgba(12, 12, 13, 0.05);
+  display: flex;
+  background: #fff;
+  float: left;
+  width: 25vw;
+  height: 80vh;
+  margin: 2vh 7vh 2vh 7vh;
+  border-top: 4px solid #2980b9;
+}
+
+.action-header {
+  color: #000;
+  width: 25vw;
+  height: 3vh;
+  text-align: left;
+  padding-left: 2vw;
+}
+
+.draggable {
+  width: 25vw;
+  height: 80vh;
+}
+
+.css-19bon8n {
+  margin-bottom: 10px;
+  width: 90% !important;
+}

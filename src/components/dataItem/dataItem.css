@@ -1,0 +1,94 @@
+.Collapsible {
+  background-color: white;
+  margin: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+.Collapsible:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Collapsible__contentInner {
+  padding: 10px;
+  border: 1px solid #fff;
+  border-top: 0;
+  background-color: #fff;
+}
+.Collapsible__contentInner p {
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.Collapsible__contentInner p:last-child {
+  margin-bottom: 0;
+}
+
+.Collapsible__trigger {
+  display: block;
+  font-weight: 400;
+  text-decoration: none;
+  color: #333333;
+  position: relative;
+  border: 1px solid #fff;
+  padding: 10px;
+  background: #16a085;
+  color: white;
+  cursor: pointer;
+  user-select: none;
+  -moz-user-select: none;
+}
+.Collapsible__trigger:after {
+  font-family: 'FontAwesome';
+  content: '\1f87b';
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  display: block;
+  transition: transform 300ms;
+  cursor: pointer;
+  user-select: none;
+  -moz-user-select: none;
+}
+.Collapsible__trigger.is-open:after {
+  transform: rotateZ(180deg);
+}
+.Collapsible__trigger.is-disabled {
+  opacity: 0.5;
+  background-color: grey;
+}
+
+.item-actions {
+  width: 100%;
+  height: 3vh;
+  border-top: 1px solid #eeeeee;
+}
+
+.info-item {
+  float: left;
+  font-size: 0.8em;
+  text-align: right;
+  padding: 5px;
+  width: 80%;
+}
+
+.color-picker {
+  padding: 5px;
+  width: 10%;
+  float: left;
+  text-align: left;
+  cursor: pointer;
+}
+
+.remove-item {
+  user-select: none;
+  -moz-user-select: none;
+  color: crimson;
+  cursor: pointer;
+  float: right;
+}
+
+.date-item {
+  float: right;
+  margin-right: 1em;
+}

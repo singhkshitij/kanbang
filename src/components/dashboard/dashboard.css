@@ -1,0 +1,9 @@
+.dashboard {
+  background: url(/images/bg.png);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-x: hidden;
+  height: 100vh;
+  background-color: #ecf0f1;
+}
