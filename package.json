@@ -10,8 +10,10 @@
     "react-color": "^2.17.3",
     "react-components-form": "^3.6.3",
     "react-dom": "^16.8.6",
+    "react-firebaseui": "^3.1.2",
     "react-icons": "^3.6.1",
     "react-loading": "^2.0.3",
+    "react-loading-skeleton": "^1.1.1",
     "react-moment": "^0.9.2",
     "react-scripts": "^3.0.0"
   },
