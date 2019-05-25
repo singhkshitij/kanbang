@@ -75,7 +75,7 @@ export default class Dashboard extends Component {
         });
       }
     });
-    console.log('DATA RETRIEVED', this.state);
+    console.log('DATA RETRIEVED');
   };
 
   setInputState = () => {

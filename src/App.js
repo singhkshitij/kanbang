@@ -8,7 +8,8 @@ import ReactLoading from 'react-loading';
 
 class App extends Component {
   state = {
-    user: {}
+    user: {},
+    isPageLoaded: false
   };
   uiConfig = {
     signInFlow: 'popup',
@@ -18,8 +19,7 @@ class App extends Component {
     ],
     callbacks: {
       signInSuccessWithAuthResult: () => false
-    },
-    isPageLoaded: false
+    }
   };
 
   componentWillMount = () => {
