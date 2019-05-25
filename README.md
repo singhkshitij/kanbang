@@ -38,4 +38,4 @@
 [license-url]: https://github.com/singhkshitij/kanbang/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ikshitijsingh/
-[product-screenshot]: https://github.com/singhkshitij/kanbang/blob/master/public/images/ss.PNG
+[product-screenshot]: https://github.com/singhkshitij/kanbang/blob/master/public/images/frame.PNG
