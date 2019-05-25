@@ -26,6 +26,11 @@
 
 </p>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Kanbang Screen Shot][product-screenshot]](https://kanbang.ml)
+
 
 
 
