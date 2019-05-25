@@ -1,4 +1,8 @@
-
+<!-- PROJECT SHIELDS -->
+[![Build Status][build-shield]]()
+[![Contributors][contributors-shield]]()
+[![MIT License][license-shield]][https://github.com/singhkshitij/kanbang/blob/master/LICENSE]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ikshitijsingh/]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -23,8 +27,4 @@
 </p>
 
 
-<!-- PROJECT SHIELDS -->
-[![Build Status][build-shield]]()
-[![Contributors][contributors-shield]]()
-[![MIT License][license-shield]][https://github.com/singhkshitij/kanbang/blob/master/LICENSE]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ikshitijsingh/]
+
