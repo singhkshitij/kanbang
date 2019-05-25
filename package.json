@@ -2,7 +2,7 @@
   "name": "kanbang",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://singhkshitij.github.io/kanbang/",
+  "homepage": "https://kanbang.ml",
   "dependencies": {
     "firebase": "^5.11.1",
     "gh-pages": "^2.0.1",

@@ -17,6 +17,15 @@ export default class Dashboard extends Component {
     };
   }
 
+  style = {
+    background: 'url("/images/bg.png")',
+    backgroundPosition: '50%',
+    backgroundRepeat: 'no-repeat',
+    backgroundSize: 'cover',
+    backgroundColor: '#ecf0f1',
+    overflowX: 'hidden'
+  };
+
   checkIfInitialState = () => {
     return (
       this.state.todo.length === 0 &&
@@ -145,7 +154,7 @@ export default class Dashboard extends Component {
 
   render() {
     return (
-      <div className="dashboard">
+      <div className="dashboard" style={this.style}>
         <Header
           setInputState={this.setInputState}
           getInputState={this.getInputState}
