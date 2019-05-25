@@ -1,5 +1,3 @@
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/singhkshitij/kanbang/">
     <img src="https://github.com/singhkshitij/kanbang/blob/master/public/images/logo.png" alt="Logo" width="300" height="100">
