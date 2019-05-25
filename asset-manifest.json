@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kanbang/static/css/main.feafc16c.chunk.css",
-    "main.js": "/kanbang/static/js/main.c949b04f.chunk.js",
-    "main.js.map": "/kanbang/static/js/main.c949b04f.chunk.js.map",
+    "main.css": "/kanbang/static/css/main.28ee7643.chunk.css",
+    "main.js": "/kanbang/static/js/main.e4de5dc9.chunk.js",
+    "main.js.map": "/kanbang/static/js/main.e4de5dc9.chunk.js.map",
     "runtime~main.js": "/kanbang/static/js/runtime~main.e3d6d278.js",
     "runtime~main.js.map": "/kanbang/static/js/runtime~main.e3d6d278.js.map",
     "static/js/2.ab2b189e.chunk.js": "/kanbang/static/js/2.ab2b189e.chunk.js",
     "static/js/2.ab2b189e.chunk.js.map": "/kanbang/static/js/2.ab2b189e.chunk.js.map",
     "index.html": "/kanbang/index.html",
-    "precache-manifest.858bc62a7292169867255cc9a1a33c79.js": "/kanbang/precache-manifest.858bc62a7292169867255cc9a1a33c79.js",
+    "precache-manifest.88b9ec86356de600a49634e18f33c748.js": "/kanbang/precache-manifest.88b9ec86356de600a49634e18f33c748.js",
     "service-worker.js": "/kanbang/service-worker.js",
-    "static/css/main.feafc16c.chunk.css.map": "/kanbang/static/css/main.feafc16c.chunk.css.map"
+    "static/css/main.28ee7643.chunk.css.map": "/kanbang/static/css/main.28ee7643.chunk.css.map"
   }
 }
