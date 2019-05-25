@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/singhkshitij/kanbang/">
-    <img src="https://github.com/singhkshitij/kanbang/blob/master/public/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/singhkshitij/kanbang/blob/master/public/images/logo.png" alt="Logo" width="200" height="100">
   </a>
 
   <h3 align="center">Minimal Kanban board with REACT and Firebase</h3>
