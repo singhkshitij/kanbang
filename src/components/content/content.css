@@ -16,6 +16,7 @@
   height: 80vh;
   margin: 2vh 7vh 2vh 7vh;
   border-top: 4px solid #2980b9;
+  overflow-y: scroll;
 }
 
 .in-progress {
@@ -28,6 +29,7 @@
   height: 80vh;
   margin: 2vh 7vh 2vh 7vh;
   border-top: 4px solid #2980b9;
+  overflow-y: scroll;
 }
 
 .done {
@@ -40,6 +42,7 @@
   height: 80vh;
   margin: 2vh 7vh 2vh 7vh;
   border-top: 4px solid #2980b9;
+  overflow-y: scroll;
 }
 
 .action-header {
@@ -52,7 +55,6 @@
 
 .draggable {
   width: 25vw;
-  height: 80vh;
 }
 
 .css-19bon8n {
