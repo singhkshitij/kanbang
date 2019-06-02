@@ -40,11 +40,42 @@ KanbanG is a just another task tracker for personal use by developers. And now w
   - Subtasks
   - Images in tasks
 
-
-## Build with :
+## Built with :
  - [REACTJS](https://reactjs.org/)
  - [Firebase](https://firebase.google.com/)
  - Bootstrapped with [Create React App](https://www.npmjs.com/create-react-app)
+ 
+ 
+ <!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+Following dependencies should be installed before getting started.
+* npm
+```sh
+npm install npm@latest -g
+```
+* create react app
+```sh
+npm i create-react-app
+```
+
+### Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/singhkshitij/kanbang
+```
+2. Install NPM packages
+```sh
+npm install
+```
+3. Import project in some editor and open firebaseAuth.js . Replace `<Enter you Cred>` with you firebase api keys.
+[![Firebase Auth Key][firebaseAuth]]
  
 ## Contributing
 
@@ -55,8 +86,6 @@ Contributions are what make the open source community such an amazing place to b
    3. Commit your Changes (`git commit -m 'Add some AmazingFeature`)
    4. Push to the Branch (`git push origin feature/AmazingFeature`)
    5. Open a Pull Request
-
- 
  
 ## License
 
@@ -75,3 +104,4 @@ Project Link: https://github.com/singhkshitij/kanbang
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ikshitijsingh/
 [product-screenshot]: https://github.com/singhkshitij/kanbang/blob/master/public/images/frame.PNG
+[firebaseAuth] :  https://github.com/singhkshitij/kanbang/blob/master/public/carbon.png
