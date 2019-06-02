@@ -29,6 +29,18 @@
 [![Kanbang Screen Shot][product-screenshot]](https://kanbang.ml)
 
 
+# What is KanbanG ?
+
+KanbanG is a just another task tracker for personal use by developers. And now what does it offer ? Well it offers : 
+  - Creating 'n' number of task
+  - With time duration spent on each task
+  - Different color themes for different task
+  - No need to signup, just login with social logins
+## What to expect in future ?
+  - Subtasks
+  - Images in tasks
+
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
