@@ -41,6 +41,14 @@ KanbanG is a just another task tracker for personal use by developers. And now w
   - Images in tasks
 
 
+## Build with :
+ - [REACTJS](https://reactjs.org/)
+ - [Firebase](https://firebase.google.com/)
+ - Bootstrapped with [Create React App](https://www.npmjs.com/create-react-app)
+ 
+## License
+
+This project is licensed under the Apache-2.0 [License](https://github.com/singhkshitij/kanbang/blob/master/LICENSE) - see the LICENSE.md file for details
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
