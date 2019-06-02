@@ -95,7 +95,7 @@ This project is licensed under the Apache-2.0 [License](https://github.com/singh
 
 ## Contact
 
-Kshitij - @ikshitijsingh - kshitijzxjava@gmail.com
+Kshitij - @ikshitijsingh - singh_kshitij@yahoo.com
 Project Link: https://github.com/singhkshitij/kanbang
 
 <!-- MARKDOWN LINKS & IMAGES -->
