@@ -46,10 +46,26 @@ KanbanG is a just another task tracker for personal use by developers. And now w
  - [Firebase](https://firebase.google.com/)
  - Bootstrapped with [Create React App](https://www.npmjs.com/create-react-app)
  
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+   - Fork the Project
+   - Create your Feature Branch (git checkout -b feature/AmazingFeature)
+   - Commit your Changes (git commit -m 'Add some AmazingFeature)
+   - Push to the Branch (git push origin feature/AmazingFeature)
+   - Open a Pull Request
+
+ 
+ 
 ## License
 
 This project is licensed under the Apache-2.0 [License](https://github.com/singhkshitij/kanbang/blob/master/LICENSE) - see the LICENSE.md file for details
 
+## Contact
+
+Kshitij - @ikshitijsingh - kshitijzxjava@gmail.com
+Project Link: https://github.com/singhkshitij/kanbang
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [build-shield]: https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square
