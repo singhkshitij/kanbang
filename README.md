@@ -74,8 +74,8 @@ git clone https://github.com/singhkshitij/kanbang
 ```sh
 npm install
 ```
-3. Import project in some editor and open firebaseAuth.js . Replace `<Enter you Cred>` with you firebase api keys.
-<p align="center"><img src="https://github.com/singhkshitij/kanbang/blob/master/public/carbon.png" alt="Logo" width="400" height="150"></p>
+3. Import project in some editor and open firebaseInit.jsx . Replace `<Enter you Cred>` with you firebase api keys.
+<p align="center"><img src="https://github.com/singhkshitij/kanbang/blob/master/public/carbon.png" alt="Logo" width="529" height="410"></p>
   
  
 ## Contributing
