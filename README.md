@@ -75,7 +75,8 @@ git clone https://github.com/singhkshitij/kanbang
 npm install
 ```
 3. Import project in some editor and open firebaseAuth.js . Replace `<Enter you Cred>` with you firebase api keys.
-[![Firebase Auth Key][firebaseAuth]]
+<img src="https://github.com/singhkshitij/kanbang/blob/master/public/carbon.png" alt="Logo" width="200" height="70">
+  
  
 ## Contributing
 
@@ -104,4 +105,3 @@ Project Link: https://github.com/singhkshitij/kanbang
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ikshitijsingh/
 [product-screenshot]: https://github.com/singhkshitij/kanbang/blob/master/public/images/frame.PNG
-[firebaseAuth] :  https://github.com/singhkshitij/kanbang/blob/master/public/carbon.png
