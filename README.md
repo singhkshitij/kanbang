@@ -75,8 +75,9 @@ git clone https://github.com/singhkshitij/kanbang
 npm install
 ```
 3. Import project in some editor and open firebaseInit.jsx . Replace `<Enter you Cred>` with you firebase api keys.
-<p align="center"><img src="https://github.com/singhkshitij/kanbang/blob/master/public/carbon.png" alt="Logo" width="529" height="410"></p>
+<p align="center"><img src="https://github.com/singhkshitij/kanbang/blob/master/public/images/firebaseInit.png" alt="Logo" width="529" height="410"></p>
   
+ 4. Run `npm start` and see the magic.
  
 ## Contributing
 
