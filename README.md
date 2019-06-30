@@ -34,9 +34,13 @@
 # What is KanbanG ?
 
 KanbanG is a just another task tracker for personal use by developers. And now what does it offer ? Well it offers : 
-  - Creating 'n' number of task
-  - With time duration spent on each task
-  - Different color themes for different task
+  - Two versions available : Lite and Full version 
+  - Create as many dashboards as you want !
+  - Create as many tracking columns as you want ( ex - todo, in progress, done and so on..)
+  - Creating 'n' number of task for each column
+  - Easy drag and drop of task to save progress
+  - Time duration spent on each task
+  - Different color themes for different dashboards
   - No need to signup, just login with social logins
 ## What to expect in future ?
   - Subtasks
