@@ -79,12 +79,12 @@ There are two versions available of the project : Light and Full version.
 
 1. Based on version you want to work with, choose the step accordingly : 
 
- - Clone the light version code repo
-    ```sh
-    git clone https://github.com/singhkshitij/kanbang
-    ```
- - Download the Full version code
-  [![Kanbang Full version code][full-ver-button]](https://mytrashcode.com)
+   - Clone the light version code repo
+      ```sh
+      git clone https://github.com/singhkshitij/kanbang
+      ```
+   - Download the Full version code <br/>
+      [![Kanbang Full version code][full-ver-button]](https://mytrashcode.com)
 
 2. Install NPM packages
 ```sh
