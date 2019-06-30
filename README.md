@@ -84,8 +84,7 @@ There are two versions available of the project : Light and Full version.
     git clone https://github.com/singhkshitij/kanbang
     ```
  - Download the Full version code
-  
-
+  [![Kanbang Full version code][full-ver-button]](https://mytrashcode.com)
 
 2. Install NPM packages
 ```sh
@@ -124,3 +123,4 @@ Project Link: https://github.com/singhkshitij/kanbang
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ikshitijsingh/
 [product-screenshot]: https://github.com/singhkshitij/kanbang/blob/master/public/images/screely-1561886666880.png
+[full-ver-button]: https://github.com/singhkshitij/kanbang/blob/master/public/images/button.png
