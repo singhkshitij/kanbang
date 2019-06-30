@@ -42,9 +42,12 @@ KanbanG is a just another task tracker for personal use by developers. And now w
   - Time duration spent on each task
   - Different color themes for different dashboards
   - No need to signup, just login with social logins
+  - Completely built on Material UI
+  
 ## What to expect in future ?
   - Subtasks
-  - Images in tasks
+  - Images upload in task
+  - Any suggestion is heartly welcomed
 
 ## Built with :
  - [REACTJS](https://reactjs.org/)
@@ -72,10 +75,18 @@ npm i create-react-app
 
 ### Installation
 
-1. Clone the repo
-```sh
-git clone https://github.com/singhkshitij/kanbang
-```
+There are two versions available of the project : Light and Full version.
+
+1. Based on version you want to work with, choose the step accordingly : 
+
+ - Clone the light version code repo
+    ```sh
+    git clone https://github.com/singhkshitij/kanbang
+    ```
+ - Download the Full version code
+  
+
+
 2. Install NPM packages
 ```sh
 npm install
