@@ -8,9 +8,9 @@
   <p align="center">
     An awesome lightweight task tracker for developers!
     <br />
-    <a href="https://kanbang.ml/">KanbanG Light Demo</a>
+    <a href="https://kanbang.ml/">Light Version Demo</a>
     ·
-    <a href="https://kanbang.tk/">KanbanG Full Version Demo</a>
+    <a href="https://kanbang.tk/">Full Version Demo</a>
     ·
     <a href="https://github.com/singhkshitij/kanbang/issues">Report Bug</a>
     ·
