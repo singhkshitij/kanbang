@@ -84,7 +84,7 @@ There are two versions available of the project : Light and Full version.
       git clone https://github.com/singhkshitij/kanbang
       ```
    - Download the Full version code <br/>
-      [![Kanbang Full version code][full-ver-button]](https://mytrashcode.com)
+      [![Kanbang Full version code][full-ver-button]](https://mytrashcode.com/subscribe/)
 
 2. Install NPM packages
 ```sh
