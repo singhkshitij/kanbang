@@ -75,12 +75,10 @@ npm i create-react-app
 
 1. Based on version you want to work with, choose the step accordingly : 
 
-   - Clone the light version code repo
+   - Clone the repo
       ```sh
       git clone https://github.com/singhkshitij/kanbang
       ```
-   - Download the Full version code <br/>
-      [![Kanbang Full version code][full-ver-button]](https://mytrashcode.com/subscribe/)
 
 2. Install NPM packages
 ```sh
