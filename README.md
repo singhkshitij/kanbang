@@ -8,9 +8,7 @@
   <p align="center">
     An awesome lightweight task tracker for developers!
     <br />
-    <a href="https://kanbang.ml/">Light Version Demo</a>
-    ·
-    <a href="https://kanbang.tk/">Full Version Demo</a>
+    <a href="https://kanbang-d1e70.web.app/">Live Demo</a>
     ·
     <a href="https://github.com/singhkshitij/kanbang/issues">Report Bug</a>
     ·
@@ -34,7 +32,6 @@
 # What is KanbanG ?
 
 KanbanG is a just another task tracker for personal use by developers. And now what does it offer ? Well it offers : 
-  - Two versions available : Lite and Full version 
   - Create as many dashboards as you want !
   - Create as many tracking columns as you want ( ex - todo, in progress, done and so on..)
   - Creating 'n' number of task for each column
@@ -75,7 +72,6 @@ npm i create-react-app
 
 ### Installation
 
-There are two versions available of the project : Light and Full version.
 
 1. Based on version you want to work with, choose the step accordingly : 
 
